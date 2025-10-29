@@ -26,3 +26,32 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a></p>
 
+
+<!-- GitHub profile stats card -->
+### 📊 GitHub Stats
+
+<!-- Basic stats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=buianhtuyet05&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=ffffff)
+
+<!-- Top languages (most used) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buianhtuyet05&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+---
+
+### 🔥 Streak & Contribution
+<!-- Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=buianhtuyet05&theme=radical&hide_border=true)
+
+<!-- Contribution Graph (optional) -->
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=buianhtuyet05&theme=react-dark&hide_border=true)
+
+---
+
+### 🏷️ Quick badges
+<!-- Followers / Stars / Repo count -->
+[![Followers](https://img.shields.io/github/followers/buianhtuyet05?label=Followers&style=flat&color=blue)](https://github.com/buianhtuyet05)
+[![Top Langs](https://img.shields.io/badge/top%20lang-check%20README-blue?style=flat)](#)
+[![Public Repos](https://img.shields.io/github/repos-per-language/count/buianhtuyet05?style=flat&color=informational)](https://github.com/buianhtuyet05)
+
+---
+
