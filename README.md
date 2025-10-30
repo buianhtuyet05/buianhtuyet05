@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/buianhtuyet05/ueh25-ktlt-eco" alt="https://github.com/ueh25-ktlt-eco" /></a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/buianhtuyet05/baitapnhom_06" alt="https://github.com/baitapnhom_06" /></a> </p>
+
 - 🌱 I'm currently learning **Investment Economics at the University of Economics Ho Chi Minh City (UEH).**
 
 - 🤝 I'm looking for help with **learning system design**
